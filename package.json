@@ -1,0 +1,26 @@
+{
+  "name": "friends",
+  "version": "1.0.0",
+  "description": "YOLO's friends",
+  "keywords": [
+    "web"
+  ],
+  "homepage": "https://github.com/CrazyOrr/Friends#readme",
+  "bugs": {
+    "url": "https://github.com/CrazyOrr/Friends/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrazyOrr/Friends.git"
+  },
+  "license": "MIT",
+  "author": "CrazyOrr",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
